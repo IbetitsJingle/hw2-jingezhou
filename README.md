@@ -54,4 +54,4 @@ hw2-jingezhou/
 
 ## Video Walkthrough
 
-[Link to be added after recording]
+https://youtu.be/JSx2OZhFcMg
