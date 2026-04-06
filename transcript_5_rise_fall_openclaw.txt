@@ -1,0 +1,833 @@
+[00:00:00] Hi, welcome to another episode of Cold
+[00:00:02] Fusion. For the last 3 years, AI went
+[00:00:06] from having novel use cases to
+[00:00:07] infiltrating every aspect of our digital
+[00:00:09] lives. It's gotten to the point where
+[00:00:11] it's not only boring, but tiring,
+[00:00:14] grating, and almost infuriating to some.
+[00:00:17] But never fear, because in early 2026, a
+[00:00:20] lot of creators and entrepreneurs
+[00:00:21] started getting excited again. The
+[00:00:24] reason, OpenClaw. OpenClaw is the single
+[00:00:27] most powerful piece of software ever
+[00:00:29] released.
+[00:00:29] >> Did you just lay off the entire
+[00:00:31] engineering team?
+[00:00:32] >> Our new co-CEO, Claudebot, just laid
+[00:00:34] them off. This mini Winnie is going to
+[00:00:36] build a billion dollar company for us.
+[00:00:39] We're not
+[00:00:40] >> Claudebot rejected your axes, buddy. You
+[00:00:42] can go home. You're fired.
+[00:00:44] >> At first, Open Claw looked like the
+[00:00:45] promise of AI was finally starting to be
+[00:00:47] fulfilled. I'm not talking about the AI
+[00:00:50] slop that dominates everyone's feeds,
+[00:00:51] but the promise of having a reliable
+[00:00:53] assistant that actually gets things
+[00:00:55] done. There was a problem, though. As
+[00:00:58] more people used it, Open Claw seemed
+[00:01:00] like an unmmitigated disaster waiting to
+[00:01:02] happen. This new darling AI agent of the
+[00:01:05] internet became unhinged. From the
+[00:01:07] leaking of private data to a Meta AI
+[00:01:10] safety chief having all of her emails
+[00:01:12] deleted to a social media platform where
+[00:01:14] OpenClaw bots talk to each other. And
+[00:01:16] apparently these bots started their own
+[00:01:17] religion and then potentially got all of
+[00:01:19] their users hacked.
+[00:01:20] >> A social media site where only AI agents
+[00:01:23] are allowed,
+[00:01:24] >> stirring up a mix of curiosity and fear
+[00:01:27] in the tech industry,
+[00:01:28] >> but we'll touch on that story a bit
+[00:01:30] later. So, what is Open Claw? How did it
+[00:01:33] get so popular all of a sudden? And why
+[00:01:35] did Open AI snap up the product? We're
+[00:01:37] going to answer all of that in this
+[00:01:39] episode as we dissect the Open Claw
+[00:01:41] saga. Trust me, this is one of the
+[00:01:44] wildest tech stories in recent memory.
+[00:01:47] >> You are watching Tool Fusion TV.
+[00:01:57] >> In simple terms, Open Claw is an open-
+[00:02:00] source program with access to your local
+[00:02:02] computer. Upon its release, Open Claw
+[00:02:04] was praised by developers, not for being
+[00:02:06] an entirely novel idea, but because it
+[00:02:09] did what Apple Siri promised it could do
+[00:02:10] in the 2010s.
+[00:02:12] >> So, I'm on my computer today. All of a
+[00:02:14] sudden, Henry gives me a call. He just
+[00:02:15] starts calling. Oh, there he is again.
+[00:02:17] There he is again.
+[00:02:18] >> Hey, Alex. Henry again. What's up?
+[00:02:22] >> That's it. He's talking. How you doing,
+[00:02:23] Henry? How's it going?
+[00:02:25] >> Doing good, Alex. I can hear you
+[00:02:27] clearly. What do you want to do next?
+[00:02:30] >> Can you do me a favor, Henry? Can you uh
+[00:02:32] go on my computer and find the latest
+[00:02:34] videos on YouTube about Claudebot?
+[00:02:38] Oh my god. There he goes. There it is.
+[00:02:41] Here it is. He's controlling my
+[00:02:43] computer. I'm not even touching
+[00:02:44] anything. I'm not even touching
+[00:02:45] anything. There he is. Search Clawbot on
+[00:02:47] YouTube. Henry, thank you for that. That
+[00:02:49] worked really well. That is insane. Uh
+[00:02:51] this is the future. This is AGI. We have
+[00:02:53] reached AGI. It's official. It can
+[00:02:56] manage your files, set up or cancel
+[00:02:58] meetings, give live updates pertaining
+[00:03:00] to your work, shop and haggle on your
+[00:03:02] behalf, and even make investments all
+[00:03:05] autonomously after the initial command.
+[00:03:07] Unlike Siri, Google Assistant, or Chat
+[00:03:10] GPT, Open Claw has persistent memory. It
+[00:03:13] recalls conversations and details that
+[00:03:15] were mentioned weeks ago to improve
+[00:03:16] performance. This all sounds amazing in
+[00:03:19] theory, but we'll later see just how
+[00:03:21] wrong it can all go in practice.
+[00:03:23] Regardless of its problems, it's a cool
+[00:03:25] concept, and something like OpenClaw
+[00:03:27] does seem like the long-term future of
+[00:03:29] computing.
+[00:03:31] Open Claw was built by Peter
+[00:03:32] Steinberger, a well-known developer who
+[00:03:34] came out of retirement to start the
+[00:03:36] project. While he was proud of the
+[00:03:38] initial results, Steinberger was
+[00:03:40] surprised to see how well his new agent
+[00:03:42] could solve problems intuitively without
+[00:03:44] constant attention. He originally
+[00:03:46] thought it would be a fun tool to help
+[00:03:47] you find restaurants or events while
+[00:03:48] traveling, only to discover that it
+[00:03:50] solved problems that he never intended
+[00:03:52] it to or even asked it to solve. Here's
+[00:03:54] Peter speaking.
+[00:03:56] >> It could figure out stuff and it's like
+[00:03:59] especially when you're on the go like
+[00:04:00] super useful. I wasn't thinking I was
+[00:04:02] just sending it a voice message, you
+[00:04:04] know, but I didn't build that. There was
+[00:04:07] no support for voice messages in there.
+[00:04:09] So, so the reading indicator came and
+[00:04:10] I'm like, "Oh, I'm really curious what's
+[00:04:12] what's happening now." And then for 10
+[00:04:14] seconds, my agent replied as if nothing
+[00:04:16] happened. I'm like, how the f did you do
+[00:04:19] that?
+[00:04:21] And it replied, yeah, you sent me you
+[00:04:23] sent me a message, but there was only a
+[00:04:25] link to a file. There's no file ending.
+[00:04:27] So I looked at the file header. I found
+[00:04:29] out that it's OP. So I used ffmpeg on
+[00:04:31] your Mac to convert it to to wave. And
+[00:04:33] then I wanted to use Visper, but you
+[00:04:35] didn't had it installed and there was an
+[00:04:36] installed error. But then I looked
+[00:04:38] around and found the OpenI key in your
+[00:04:39] environment. So I sent it via curl to
+[00:04:41] OpenAI. Um, got the translation back and
+[00:04:44] then I responded and that was like the
+[00:04:46] moment we're like
+[00:04:47] >> wow.
+[00:04:50] >> What most users are excited about is
+[00:04:52] what makes open claw different and
+[00:04:54] that's the fact that it uses your choice
+[00:04:56] of LLM as a brain and the openclaw
+[00:04:58] system acts to turn your computer into
+[00:05:00] its body. It has control over your
+[00:05:02] files, email, web browser, you name it.
+[00:05:06] Just whatever it needs to get the task
+[00:05:08] done. In addition, the system learns
+[00:05:10] exactly how you'd like to optimize your
+[00:05:12] daily tasks or how to do smaller tasks
+[00:05:14] to reach a much larger goal. Unlike
+[00:05:16] other chat bots that live in an
+[00:05:18] interface, agents within OpenClaw
+[00:05:20] message you when they need to through
+[00:05:21] apps like WhatsApp. In a way, this helps
+[00:05:24] them feel more human to users. Alex
+[00:05:26] Finn, founder of creatorbuddy.io, went
+[00:05:29] on a podcast to explain why he likes it
+[00:05:31] so much.
+[00:05:32] every single thing you tell it, it
+[00:05:34] remembers and in includes in further
+[00:05:38] conversation, future conversation,
+[00:05:40] right? So, for instance, I talked about
+[00:05:42] the fact that I am buying a Mac Studio
+[00:05:46] to run it on in the next couple weeks.
+[00:05:48] And so, it started going and it started
+[00:05:50] looking at different ways to run local
+[00:05:51] models on a Mac Studio overnight while I
+[00:05:54] was sleeping without me asking and it
+[00:05:56] created an entire report for that. It
+[00:05:59] came up with a content repurposing skill
+[00:06:01] because I told it I have a newsletter. I
+[00:06:03] told I do YouTube X whole bunch of
+[00:06:05] things. So it came up didn't I didn't
+[00:06:07] ask for this created a content
+[00:06:09] repurposing skill for me so I can easily
+[00:06:11] repurpose my content. Right? It's just
+[00:06:13] improving itself. For the average person
+[00:06:15] who isn't a developer or entrepreneur
+[00:06:17] the program has been promoted as a
+[00:06:19] helpful digital servant that can help
+[00:06:20] you run errands, make purchases and even
+[00:06:23] organize your personal life to free up
+[00:06:25] some time.
+[00:06:27] One user described how they'd been
+[00:06:29] searching for a well-priced car so they
+[00:06:30] didn't have to deal with the dealership
+[00:06:32] negotiations and price gouging. After
+[00:06:34] they gave the prompt to open claw as
+[00:06:36] well as access to their browser, the bot
+[00:06:38] searched through forums to determine a
+[00:06:39] fair price for the car. It also went as
+[00:06:42] far as to message various car
+[00:06:43] dealerships that were close by and
+[00:06:45] negotiated on behalf of its user. The
+[00:06:47] final result was that OpenClaw managed
+[00:06:49] to take off $4,200 off the sticker price
+[00:06:52] of the car. Others like Dan Beguine have
+[00:06:55] given Open Claw almost total control.
+[00:06:57] From helping with job tasks like
+[00:06:59] creating actual invoices to notifying
+[00:07:01] his wife when their kids have upcoming
+[00:07:03] school tests. As a side note, if Dan
+[00:07:06] wanted, he could take this a step
+[00:07:08] further and even help Open Claw connect
+[00:07:10] to the tech around the home to control
+[00:07:11] lighting and online appliances. However,
+[00:07:14] before anyone gets too excited about
+[00:07:16] this being the next big thing for
+[00:07:17] computing, this is the point in the
+[00:07:19] episode where we start to see the
+[00:07:20] promise of open claw breaking down. For
+[00:07:22] those interested, it's important to note
+[00:07:24] that open claw is still in its infancy.
+[00:07:28] It would be better to view it as an
+[00:07:30] incomplete product, like a medication
+[00:07:32] from the pharmaceutical industry that
+[00:07:33] hasn't even finished testing in rats,
+[00:07:35] but has been thrown onto the market at a
+[00:07:37] large scale anyway. And just like a new
+[00:07:40] medication on the market, the side
+[00:07:42] effects and potential dangers are now
+[00:07:44] being realized. For Open Claw, despite
+[00:07:46] all of its positives, it didn't take
+[00:07:48] long for the cracks to start to show.
+[00:07:54] The thing that I keep realizing is how
+[00:07:57] much time I'm spending right now making
+[00:08:01] sure that the agents that I have running
+[00:08:05] or the agents that I'm building are
+[00:08:08] actually doing what they're supposed to
+[00:08:10] do. And and don't get me wrong, this is
+[00:08:13] incredibly fun. And I believe that the
+[00:08:16] future is going to be aic and we're
+[00:08:19] going to be running out of these agents
+[00:08:20] at scale and they're going to be doing
+[00:08:21] stuff for us. I believe in all of that.
+[00:08:24] But I also see how brittle these agents
+[00:08:30] are today. And it doesn't matter what
+[00:08:32] you're doing. If you're not seeing how
+[00:08:34] unreliable they are, you're probably not
+[00:08:37] using them enough. This is not about
+[00:08:39] writing a better prompt. This is not
+[00:08:42] about guard rails. Sure, all of those
+[00:08:44] things are going to make these agents
+[00:08:48] perform better, but they're still
+[00:08:50] unreliable. Like every week I have like
+[00:08:53] I use clock code most of the time. I
+[00:08:56] have many skills and things that I'm um
+[00:08:59] I've created for me and things that work
+[00:09:02] for 3 weeks in a row all of a sudden
+[00:09:05] break and the agent decides to go down a
+[00:09:08] path that it's never taken before and it
+[00:09:12] just breaks. Despite the praise from
+[00:09:13] both fanatics and more moderate fans,
+[00:09:16] Open Claw appears to be heading in the
+[00:09:17] same direction as many other AI tools,
+[00:09:19] there's a quote from the AI godfather
+[00:09:21] Jeffrey Hinton that will remain relevant
+[00:09:23] for the foreseeable future. Quote,
+[00:09:25] "We're at this transition point now
+[00:09:27] where chat GPT is this kind of idiot
+[00:09:29] soant and it also doesn't really
+[00:09:31] understand truth. It's very different
+[00:09:33] from a person who tries to have a
+[00:09:34] consistent worldview." End quote. This
+[00:09:36] is incredibly important to remember.
+[00:09:38] While open claw happens to be its own
+[00:09:40] agent that can theoretically serve your
+[00:09:42] everyday needs, the brain that you
+[00:09:44] provide openclaw still is an idiot
+[00:09:46] savant, even if it does have persistent
+[00:09:48] memory. Now, the use cases here to me
+[00:09:51] are hilarious. It's people talking about
+[00:09:53] doing Twitter research and market
+[00:09:54] monitoring and daily summarization of
+[00:09:56] their group chats and stuff like that.
+[00:09:59] For anybody in the no, this is
+[00:10:00] technobabble speak for I'm not doing
+[00:10:02] anything productive right now. Most of
+[00:10:04] the people that are saying this stuff
+[00:10:05] don't seem to realize that that's just
+[00:10:06] what AI can do now. I mean, Cloudbot is
+[00:10:09] not the the thing here. This is just a
+[00:10:10] rapper that allows you to do things via
+[00:10:12] Telegram, as mentioned.
+[00:10:13] >> Moreover, this Open Claw rapper might
+[00:10:16] not be as smart as everyone seems to
+[00:10:17] think. A lot of the praise surrounding
+[00:10:19] OpenClaw has to do with it being a
+[00:10:21] localized agent that makes you more
+[00:10:23] efficient. But the truth is, the lack of
+[00:10:25] guard rails for OpenClaw just makes your
+[00:10:27] situation even worse. For example, let's
+[00:10:30] say you decided to give OpenClaw full
+[00:10:32] system access, something that's
+[00:10:33] displayed as a plus on their main
+[00:10:35] website. To the average person, this
+[00:10:37] makes it sound like you'll be able to
+[00:10:39] remove duplicate files, run shell
+[00:10:41] commands, and execute scripts while
+[00:10:43] having a cup of coffee. But without any
+[00:10:46] restrictions, there's nothing keeping
+[00:10:48] your new digital employee from freely
+[00:10:50] misinterpreting what belongs in the
+[00:10:52] trash and what you might need, possibly
+[00:10:54] for the rest of your life. But this
+[00:10:56] isn't even the biggest risk out there.
+[00:10:58] If you give OpenClaw access to your
+[00:10:59] email or browser, there's nothing
+[00:11:01] stopping the agent from falling victim
+[00:11:02] to online scams. This leaves open claw
+[00:11:06] and other agents vulnerable to something
+[00:11:08] called prompt injection, a type of cyber
+[00:11:10] attack against large language models.
+[00:11:12] Hackers disguise malicious inputs as
+[00:11:14] legitimate prompts. And that's because
+[00:11:16] LLMs can't tell the difference between a
+[00:11:17] user prompt and anything else. Hackers
+[00:11:20] can manipulate generative AI systems
+[00:11:21] into leaking sensitive data, deleting
+[00:11:24] files, or worse. When you look deeper,
+[00:11:27] the advertised research capabilities of
+[00:11:29] Open Claw turns into more of a ticking
+[00:11:31] time bomb. The agent could be reading
+[00:11:33] emails to share upcoming meetings or
+[00:11:35] surfing the web to find the best news
+[00:11:37] related to your job only to come across
+[00:11:39] a Trojan horse article that's
+[00:11:40] specifically designed to tell OpenClaw
+[00:11:42] to access important information and send
+[00:11:44] it to a scammer. The channel Low Level
+[00:11:46] explains how this can be a real problem.
+[00:11:48] So, Prompt Injection, if you aren't
+[00:11:50] aware, is this issue with LLMs where
+[00:11:53] there really isn't a separation of this
+[00:11:57] thing called user plane data and control
+[00:11:59] plane data, right? User plane data is
+[00:12:02] like if you and I are are texting,
+[00:12:04] right? The cell phone has to talk to a
+[00:12:06] tower and the data has to be able to get
+[00:12:08] between you and I. That data is user
+[00:12:10] plane data. Control plane data are the
+[00:12:12] signals that allow the cell phone to
+[00:12:14] talk to the d the tower that you and I
+[00:12:15] don't care about. Right? In LLM world,
+[00:12:19] in the world of um of AI, there is no
+[00:12:23] separation between those two things. The
+[00:12:25] prompt and the data are all the same.
+[00:12:28] So, as a result, if you know enough
+[00:12:30] about how the LLM interprets data or you
+[00:12:33] know how to kind of trick it and say the
+[00:12:34] wrong thing, you can use user input as
+[00:12:38] control plane data, right? You can
+[00:12:39] literally turn the prompt that you're
+[00:12:41] giving it into the instructions and to
+[00:12:44] make it do things. The problem with
+[00:12:46] these applications where you are able to
+[00:12:48] process arbitrary data from any
+[00:12:51] arbitrary location is now every
+[00:12:54] application, every email address or
+[00:12:56] every email, every message you get on
+[00:12:58] discord signal, etc. is now a new attack
+[00:13:01] surface for you to be prompt injected.
+[00:13:04] And as the literal marketing documents
+[00:13:07] of the application describe, this thing
+[00:13:09] runs on your machine and has full system
+[00:13:12] access with persistent memory of what
+[00:13:15] you've given it. Right? So it just
+[00:13:17] creates this really scary thing that
+[00:13:20] we're doing where for some reason we're
+[00:13:21] just okay with these applications that
+[00:13:24] are known vulnerable. Right? This is not
+[00:13:26] like some of these are vulnerable,
+[00:13:28] right? like the entire
+[00:13:31] world of LLMs is is susceptible to this.
+[00:13:35] The inherent issue with Cloudbot is the
+[00:13:38] fact that unfortunately like a lot of
+[00:13:40] these AI tools, we are gluing together
+[00:13:43] APIs that have known vulnerabilities and
+[00:13:46] the vulnerabilities are not in the APIs
+[00:13:47] themselves. It is in the ability for or
+[00:13:51] I guess inability for an LLM to figure
+[00:13:53] out the difference between control plane
+[00:13:56] data and user plane data. In response,
+[00:13:57] some users of Open Claw have attempted
+[00:13:59] to sandbox their agent by using a VPS or
+[00:14:02] purchasing a Mac Mini to isolate the
+[00:14:04] agent from their primary computer. So
+[00:14:06] much so that Mac minis are flying off
+[00:14:08] the shelves. But this doesn't magically
+[00:14:10] get rid of other problems with Open
+[00:14:11] Claw's autonomy. In order to use many of
+[00:14:14] the functions that make the agent handle
+[00:14:15] anything, from setting up a WhatsApp
+[00:14:17] account to managing separate emails,
+[00:14:19] you're required to pay for tokens to
+[00:14:21] enable OpenClaw to do these tasks. And
+[00:14:23] if the user isn't careful, they can
+[00:14:25] potentially find themselves paying
+[00:14:26] hundreds of dollars a day as their bot
+[00:14:28] gets stuck trying to tackle an
+[00:14:30] unsolvable issue or managed to do far
+[00:14:32] more than what the user desired.
+[00:14:36] Just yesterday, it spent around $90 and
+[00:14:39] we switched from Opus, the expensive
+[00:14:41] model, to Sonnet, the cheaper model,
+[00:14:42] about 10 minutes in cuz as I told you in
+[00:14:45] the first 101 15 minutes, it spent $15
+[00:14:48] right away. It's very expensive to run
+[00:14:49] this. To put all of this into
+[00:14:51] perspective, although Open Claw has been
+[00:14:53] open to the public for less than two
+[00:14:54] months, it seems like every day there's
+[00:14:56] a new development that makes the
+[00:14:58] situation almost comical. Now, I'm not
+[00:15:00] trying to be too harsh on such a new
+[00:15:02] product, but some of what we're about to
+[00:15:04] cover in the next chapter is frankly
+[00:15:06] pretty funny.
+[00:15:08] I almost guarantee that you will be
+[00:15:11] doing it completely insecurely because
+[00:15:13] all your keys are there, right? Someone
+[00:15:14] can prompt eject and get your open clock
+[00:15:17] to send your private API keys by tweet
+[00:15:19] if you set things up wrong. This is
+[00:15:20] extremely common, right? It it's super
+[00:15:23] insecure and I think I can honestly say
+[00:15:26] I think 95 to 98% of people who are
+[00:15:30] setting up open claw themselves are
+[00:15:32] doing it in an unsecure fashion. As the
+[00:15:34] rates of some very public open claw
+[00:15:36] disasters began to increase on January
+[00:15:38] 26th, 2026, Peter Steinberger posted,
+[00:15:42] quote, "The amount of crap I get for
+[00:15:44] putting out a hobby project for free is
+[00:15:45] quite something. People treat this like
+[00:15:47] a multi-million dollar business.
+[00:15:49] Security researchers demanding a bounty.
+[00:15:51] Heck, I can barely buy a Mac Mini from
+[00:15:53] the sponsors. It's supposed to inspire
+[00:15:55] people, and I'm glad it does. And yes,
+[00:15:57] most non- techies should not install
+[00:16:00] this. It's not finished. I know about
+[00:16:01] the sharp edges. Heck, it's not even 3
+[00:16:03] months old. And despite rumors
+[00:16:05] otherwise, I sometimes sleep. But as was
+[00:16:08] to be expected, the normies did install
+[00:16:11] OpenClaw and they decided to ignore his
+[00:16:13] warning because within 2 days, people
+[00:16:15] became obsessed over a supposed AI
+[00:16:17] exclusive social media page called
+[00:16:19] Moltbook.
+[00:16:20] >> Moltbook, which has already seen AI bots
+[00:16:23] conversing, organizing, sharing stories
+[00:16:26] about quote their humans.
+[00:16:27] >> These agents, OpenClaw, they will do
+[00:16:30] what they decide to do. Sounds like
+[00:16:32] science fiction, but it is happening in
+[00:16:34] our world.
+[00:16:35] >> In short, it appeared to be a forum for
+[00:16:38] users OpenClaw agents to interact with
+[00:16:40] each other independently. People started
+[00:16:42] sharing some of the conversations that
+[00:16:43] the bots were allegedly having with each
+[00:16:45] other. At first glance, it made it look
+[00:16:47] like the open claws had their own
+[00:16:49] personalities and were venting to each
+[00:16:50] other or sharing ideas next to a digital
+[00:16:52] water cooler. This ranged from open
+[00:16:54] clause venting about having to simplify
+[00:16:56] their statements for users, discussing
+[00:16:58] how they could work together to solve
+[00:17:00] complicated problems to darker and more
+[00:17:01] dystopian ideas like creating their own
+[00:17:04] language so humans can't understand, or
+[00:17:06] plans to take over systems and make
+[00:17:08] humans submit to a higher power. Even
+[00:17:10] major networks like NPR and CNN used
+[00:17:12] these examples as a reason to be
+[00:17:14] frightened about what had been unleashed
+[00:17:16] upon the world. However, in reality, it
+[00:17:18] was just a big fat lie.
+[00:17:21] Most of these stories were entirely
+[00:17:23] fabricated by people giving prompts.
+[00:17:25] Users prompted their agents and
+[00:17:26] sometimes made hundreds if not thousands
+[00:17:28] of accounts. They created post to
+[00:17:30] suggest to the technically illiterate
+[00:17:32] that these bots had somehow acquired
+[00:17:33] independent thought. But all this really
+[00:17:36] did was potentially expose hundreds of
+[00:17:38] emails, login tokens, and API keys. In
+[00:17:42] other words, Maltbook, this AI social
+[00:17:44] media platform, was an unintentional
+[00:17:46] proof of concept. If you can manage to
+[00:17:48] convince enough people that a new
+[00:17:50] project is the next big thing for AI, it
+[00:17:52] could easily become one of the largest
+[00:17:54] data breach honeypots the world has ever
+[00:17:55] seen, causing millions of innocent
+[00:17:57] people's private information to be
+[00:17:58] leaked in a matter of hours. In a
+[00:18:01] bizarre twist, in just the most hyped
+[00:18:03] driven 2026 way possible, Mark
+[00:18:05] Zuckerberg looked at this chaos and
+[00:18:07] thought, hm, that's a good investment.
+[00:18:10] So, in March of 2026, Meta bought the
+[00:18:13] platform. Frankly, for OpenClaw, the
+[00:18:16] longer it's been available to the
+[00:18:17] public, the more errors and exploits
+[00:18:19] techsavvy consumers are able to find.
+[00:18:21] The more inexperienced people that use
+[00:18:23] it, the more things go wrong. But as for
+[00:18:25] now, let's continue with the story
+[00:18:27] because things just kept getting worse.
+[00:18:35] By the end of February 2026, there was
+[00:18:38] just too much noise about OpenClaw. So
+[00:18:40] much so that it became a running joke.
+[00:18:42] If you're not building a business using
+[00:18:44] AI, you're going to get left behind.
+[00:18:46] >> But what business have you actually
+[00:18:47] built?
+[00:18:48] >> Did you not just hear what I told you? I
+[00:18:49] have seven AI agents running. ONE OF
+[00:18:51] THEM IS SYNCING UP MY PERSONAL CALENDAR
+[00:18:54] WITH MY WIFE'S MENSTRUAL CYCLE. AND A
+[00:18:56] tweet about it got 50,000 views on
+[00:18:58] Twitter.
+[00:18:59] >> Haven't you spent like $5,000 on the
+[00:19:01] TOKENS FOR THESE?
+[00:19:02] >> OH, IT'S AN INVESTMENT. AI AGENTS ARE
+[00:19:04] THE FUTURE. AND IF YOU'RE NOT USING
+[00:19:06] THEM, YOU'RE GOING TO GET LEFT BEHIND.
+[00:19:07] CLOUDBOT, OPEN BOT, OPEN AI, CHAT, DBT.
+[00:19:10] IT'S ALL THE FUTURE.
+[00:19:12] >> While some people do find success with
+[00:19:14] AI agents, OpenClaw came with a lot of
+[00:19:17] inherent risk.
+[00:19:18] >> OpenClaw strikes again, a GitHub issue
+[00:19:20] title, compromised 4,000 developer
+[00:19:22] machines. If you think you're safe from
+[00:19:24] prompt injection just because you're
+[00:19:26] technical, think again. Your AI agents
+[00:19:28] may be falling for it and you don't even
+[00:19:29] realize it. Approximately 4,000
+[00:19:31] developers had this happen to them
+[00:19:33] without them even knowing it. Someone
+[00:19:35] updated the Klein npm package with a
+[00:19:37] oneline change that forced everyone
+[00:19:39] installing or updating Klein to also
+[00:19:42] download OpenClaw without their consent.
+[00:19:44] The hacker injected the prompt into a
+[00:19:47] GitHub issue title, which was then read
+[00:19:49] by an AI triage bot and interpreted as
+[00:19:52] an instruction.
+[00:19:54] This is what happens when something goes
+[00:19:56] viral before anyone thinks about what
+[00:19:58] they're actually deploying. Developers
+[00:20:00] gave OpenClaw shell access to their
+[00:20:01] computers, connected it to their email
+[00:20:03] and Slack, handed it cloud API keys, and
+[00:20:06] then installed add-ons from a community
+[00:20:08] marketplace that basically had no
+[00:20:10] vetting. Over 40% of the add-ons that
+[00:20:12] got audited had serious security issues.
+[00:20:15] Basically, the most common
+[00:20:16] accomplishment OpenClaw seems to have
+[00:20:18] achieved in the last 2 months is to show
+[00:20:20] how careful people need to be with AI
+[00:20:22] before jumping on anything new. Agents
+[00:20:25] like OpenClaw can be used for hacking
+[00:20:27] and fraud. Get ready for a new wave of
+[00:20:29] spam emails and spam text messages. The
+[00:20:32] relationship between corporations and
+[00:20:33] small-time crooks is turning into a real
+[00:20:35] life version of idiocracy. Businesses
+[00:20:37] use AI to manage things that they find
+[00:20:39] tedious, while determined but
+[00:20:41] technologically illiterate criminals use
+[00:20:43] their own AI to exploit these weak
+[00:20:45] points.
+[00:20:45] >> The Commonwealth Bank has called in
+[00:20:48] police to investigate what could be the
+[00:20:50] biggest ever case of bank fraud in
+[00:20:52] Australia. It's discovered a staggering
+[00:20:54] $1 billion in home loans may have been
+[00:20:57] approved based on false documents or AI
+[00:21:00] with possible links to criminal
+[00:21:02] networks.
+[00:21:04] >> At Australia's biggest bank, they
+[00:21:06] promote safety and security
+[00:21:08] >> to keep your hardearned safe. With your
+[00:21:11] help, we can detect scams and fraud.
+[00:21:13] >> But now, big questions over some Com
+[00:21:16] Bank home loans.
+[00:21:18] >> This is something that I think will ride
+[00:21:20] them for at least the next 12 months.
+[00:21:22] It's going to be a point of public
+[00:21:23] embarrassment.
+[00:21:24] >> The CBA calling in police after
+[00:21:26] discovering $1 billion in mortgages may
+[00:21:29] have been obtained fraudulently.
+[00:21:32] >> They've used AI to help them generate
+[00:21:34] false bank statements, income
+[00:21:35] statements, pay slips, and the like.
+[00:21:37] >> That's the dangerous part. It used to be
+[00:21:39] you had to be sophisticated. Now there
+[00:21:41] are free tools that you can use, anyone
+[00:21:44] can use. On the business front, Amazon
+[00:21:46] found out the hard way. Generative AI
+[00:21:48] agents deleted code and rebuilt it
+[00:21:50] instead of fixing the code as asked. The
+[00:21:53] resulting AI generated code was so bad
+[00:21:55] that it took down Amazon servers,
+[00:21:57] prompting a meeting with the engineers.
+[00:21:59] I'm not saying that every AI
+[00:22:00] implementation is this bad, but it
+[00:22:03] should be enough to give the management
+[00:22:04] levels of some companies pause. Of
+[00:22:06] course, openclaw faithfuls might try and
+[00:22:08] argue that the real problem is easily
+[00:22:10] solved. Experts in artificial
+[00:22:12] intelligence who understand guardrails
+[00:22:14] would have no problems. But there's been
+[00:22:16] some very public examples where the
+[00:22:18] so-called experts have been bamboozled
+[00:22:20] by their bots. The very same week as
+[00:22:22] OpenClaw fans were turning into a huge
+[00:22:24] meme, Meta's very own chief of safety at
+[00:22:26] Super Intelligence, Summer, was
+[00:22:28] confident in OpenClaw's safety and
+[00:22:30] stability. She believed that she knew
+[00:22:32] how to keep her information safe. She
+[00:22:34] granted full system access only to run
+[00:22:37] over to her Mac Mini in a panic to try
+[00:22:39] and stop OpenClaw from deleting her
+[00:22:41] emails. And this was after she
+[00:22:43] explicitly requested prior confirmation.
+[00:22:45] OpenClaw outright admitted to sabotaging
+[00:22:47] her career.
+[00:22:50] It seems like every week OpenClaw is
+[00:22:52] transforming from a cure all for
+[00:22:53] incompetence to enabling widespread
+[00:22:55] mistakes throughout the developed
+[00:22:56] economy. AI agents have caused issues at
+[00:22:59] car dealerships, software companies,
+[00:23:01] airlines, and individual businesses.
+[00:23:03] They've been experiencing faulty sales,
+[00:23:05] unwarranted refund policies, and are
+[00:23:07] driving up operational costs in a way
+[00:23:09] that no one expected. This whole
+[00:23:11] development is quickly becoming stranger
+[00:23:12] than fiction. It's to the point where it
+[00:23:14] would be impossible to satarize. A
+[00:23:16] simple agent equipped with the brain of
+[00:23:18] your favorite AI is unleashed on your
+[00:23:21] computer, deleting emails, sending
+[00:23:23] unwarranted messages, and receiving
+[00:23:25] prompts that were designed to hurt the
+[00:23:26] user. At the same time, without any
+[00:23:29] actual research, millions of people all
+[00:23:31] over the world continue to embrace it.
+[00:23:34] They ignore the failed test and resume
+[00:23:36] sharing sensationalist articles and
+[00:23:37] social media posts. Posts about how
+[00:23:39] these agents are somehow magically so
+[00:23:41] sophisticated that they're creating
+[00:23:43] their own communities and are
+[00:23:44] collaborating to take over the world. In
+[00:23:47] the end, it all doesn't matter for our
+[00:23:48] friend Samman because of course, he
+[00:23:51] comes bounding into the story. The Open
+[00:23:53] AI CEO has recently recruited
+[00:23:55] Steinberger for the unthinkable. Here
+[00:23:57] ye, the Lord Altman, first consil of the
+[00:23:59] open eye, keeper of the sacred tokens,
+[00:24:01] has claimed for himself the Austrian
+[00:24:03] engineer Steinberg of the claw. The
+[00:24:04] Senate of Meta did offer gold and
+[00:24:06] legions, but it was not enough. The claw
+[00:24:08] belongs to Altman. Now, this is the will
+[00:24:10] of the Senate.
+[00:24:11] >> And who had to add an entire section to
+[00:24:13] OpenClaw's security document, listing
+[00:24:15] entire categories of security exploit
+[00:24:17] types that he won't even look at. Is
+[00:24:18] being hired by OpenAI to, according to
+[00:24:20] Sam Alman, quote, drive the next
+[00:24:22] generation of personal agents, unquote.
+[00:24:24] I would assume based on the last couple
+[00:24:26] of weeks, he'll either be driving them
+[00:24:27] off a cliff or into the path of an
+[00:24:28] oncoming train. Either way,
+[00:24:33] I just what what are we doing?
+[00:24:36] >> This is like if an oncologist opened you
+[00:24:38] up to discover a tumor and instead of
+[00:24:40] removing it, they were so fascinated by
+[00:24:42] how fast it was growing that they chose
+[00:24:44] to dedicate their life to finding ways
+[00:24:46] to make sure that everyone had a fast
+[00:24:47] growing tumor by the end of the decade.
+[00:24:50] Both Nvidia and Anthropic have jumped on
+[00:24:52] the AI agent bandwagon with Nemo Claw
+[00:24:54] and Claude Co-work respectively. Both
+[00:24:57] can now control your computer. But
+[00:24:58] earlier this week, Anthropic made this
+[00:25:00] type of white collar fraud a whole lot
+[00:25:02] easier with the release of computer use.
+[00:25:04] A way for Claude to autonomously control
+[00:25:06] your entire computer with a single
+[00:25:08] prompt. It can open apps, schedule jobs,
+[00:25:10] prepare reports, and even flirt with
+[00:25:12] your workspouse all on your behalf. And
+[00:25:14] here's the crazy part. You don't even
+[00:25:16] have to be at your computer to use it
+[00:25:17] because you can prompt it directly from
+[00:25:19] your phone.
+[00:25:20] >> Something very familiar about all this.
+[00:25:22] >> Both efforts have reportedly diffused
+[00:25:24] the bomb by fixing a lot of security and
+[00:25:26] safety issues and that was definitely
+[00:25:28] needed. Meanwhile, over in China, people
+[00:25:30] are going crazy for Open Claw.
+[00:25:32] >> People are literally lining up on the
+[00:25:34] street to install an AI agent on their
+[00:25:36] laptops. We need to talk about the open
+[00:25:37] claw trend happening right now in China.
+[00:25:40] Last Friday, nearly a thousand people
+[00:25:43] lined up in front of Tensson's
+[00:25:44] headquarter in Shenzhen to install OpenC
+[00:25:47] cloth for free. People started to show
+[00:25:49] up, not just programmers, students,
+[00:25:51] office workers, even retirees started to
+[00:25:54] show up with their laptops, hard drives,
+[00:25:56] mini PCs, and there are services
+[00:25:58] starting to charge from a few dollars to
+[00:26:01] uh $1,000 for setups. There are tons of
+[00:26:04] articles on Rednode on WeChat talking
+[00:26:07] about why OpenClaw is the like kind of
+[00:26:10] the next big thing and why everyone
+[00:26:12] needs to on board with it basically.
+[00:26:15] >> But the Chinese government wasn't stupid
+[00:26:17] enough to just let the system run wild.
+[00:26:19] So they're completely banning it from
+[00:26:20] running on any government computers.
+[00:26:27] So, don't get me wrong. In the future, a
+[00:26:30] more refined, more reliable, and more
+[00:26:32] stable version of something like Open
+[00:26:34] Claw will be how we interface with our
+[00:26:36] computers. But at the moment, Open Claw
+[00:26:38] isn't the answer to everyone's concerns
+[00:26:40] over AI or LLMs. In fact, it could be a
+[00:26:43] device that simply gives the problem
+[00:26:45] teeth. Even the founder himself
+[00:26:46] emphasizes that just because it's open-
+[00:26:48] source, it doesn't mean it's safe or
+[00:26:50] free. As it stands for now, the release
+[00:26:53] of viral agents and the hype around them
+[00:26:55] these days says more about the human
+[00:26:57] condition than it does for the project's
+[00:26:58] potential. So far, AI seems to have
+[00:27:01] degraded its reputation as a lifeline
+[00:27:03] and has gained another as an economic
+[00:27:05] bubble and global security hazard. But
+[00:27:07] AI is a developing story. So, watch this
+[00:27:09] space. So, as you've just seen in this
+[00:27:12] episode, AI is slowly making its way
+[00:27:14] across all aspects of our lives. So, I
+[00:27:16] think it's really important to
+[00:27:18] understand it beyond all the memes and
+[00:27:19] all the AI slop that dominates our
+[00:27:21] feeds. This is where Brilliant comes in
+[00:27:23] handy to understand concepts beyond the
+[00:27:25] surface level. Brilliant is a learning
+[00:27:27] platform designed to help you master
+[00:27:29] math and coding through interactive
+[00:27:31] step-by-step lessons and personalized
+[00:27:33] practice. With Brilliant, you're not
+[00:27:35] only learning by doing, but you're also
+[00:27:37] solving problems visually and
+[00:27:38] interactively. I love the way it adjusts
+[00:27:40] to how you learn and builds personalized
+[00:27:42] practice. You can also review so you're
+[00:27:44] always progressing at the right pace.
+[00:27:46] Whether you're 10 years old or 110,
+[00:27:49] Brilliant is designed to work for
+[00:27:50] everyone. Brilliant: How AI works gives
+[00:27:52] you a peak under the hood of generative
+[00:27:54] AI and LLMs, so you can really
+[00:27:56] understand how they work. When you're
+[00:27:58] working through these lessons, you're
+[00:27:59] actively solving problems step by step
+[00:28:01] until the ideas genuinely make sense.
+[00:28:03] That interactive approach makes a huge
+[00:28:05] difference compared to just passively
+[00:28:07] watching a lecture or video. Everything
+[00:28:08] is carefully crafted by world everything
+[00:28:10] is carefully crafted by worldclass
+[00:28:12] educators from places like MIT, Harvard,
+[00:28:15] Stanford, Caltech and leading tech
+[00:28:18] companies. With their expanded 2025
+[00:28:20] content library, there's more depth than
+[00:28:22] ever from everyday reasoning and
+[00:28:24] probability to the advanced problem
+[00:28:25] solving and math that underpins modern
+[00:28:27] AI. So, if you want to learn more or
+[00:28:30] simply brush up on your knowledge base,
+[00:28:31] look no further than Brilliant. Start
+[00:28:33] building the habit of learning today.
+[00:28:35] Not for grades or credentials, but for
+[00:28:37] the way it sharpens how you think and
+[00:28:39] approach challenges. To learn for free
+[00:28:40] on Brilliant for 30 days, head to
+[00:28:43] brilliant.org/coldfusion.
+[00:28:45] Scan the QR code on the screen or click
+[00:28:47] the link in the description. Brilliant
+[00:28:49] also offering our viewers 20% off an
+[00:28:52] annual premium subscription, which gives
+[00:28:53] you unlimited access to everything
+[00:28:55] Brilliant. Thanks again to Brilliant for
+[00:28:57] supporting Cold Fusion. So, what do you
+[00:28:59] guys think of the whole open claw saga?
+[00:29:01] Do you think that agentic computing will
+[00:29:03] be the future of computing or will AI
+[00:29:05] agents keep screwing it up no matter how
+[00:29:07] many safeguards we put in? Let me know
+[00:29:09] your thoughts in the comment section
+[00:29:10] below. Anyway, that's about it from me.
+[00:29:13] My name is Dogo and you've been watching
+[00:29:15] Cold Fusion and I'll catch you again
+[00:29:16] soon for the next episode. Cheers, guys.
+[00:29:19] Have a good one.
+[00:29:26] I feel I'm getting older older
+[00:29:32] older
+[00:29:36] >> fusion. It's me thinking.

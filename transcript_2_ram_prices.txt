@@ -1,0 +1,636 @@
+[00:00:00] All right, let's talk about DRAM and the
+[00:00:03] various situations surrounding it that
+[00:00:05] have developed over the last couple of
+[00:00:07] days. Be it the decrease in prices we've
+[00:00:11] seen in RAM, nothing to the point of
+[00:00:14] where it was originally, but some kind
+[00:00:16] of a dip in general price points,
+[00:00:18] combined with RAM companies seeing their
+[00:00:22] stock price just plummet recently
+[00:00:25] alongside rumors that OpenAI's deal to
+[00:00:29] consume up to like 40% of the world's
+[00:00:32] RAM all the way back last year may have
+[00:00:34] been non-binding and something that
+[00:00:38] OpenAI may not be pursuing to the
+[00:00:40] fullest extent, leaving RAM companies in
+[00:00:43] the wind. And that aspect is, you know,
+[00:00:46] nothing that I've seen fully confirmed,
+[00:00:48] but there seem to be enough uh traction
+[00:00:51] surrounding that aspect that it's worth
+[00:00:53] covering at the very least. So, if you
+[00:00:55] go to say like Best Buy right now,
+[00:00:57] you'll find that RAM such as this
+[00:00:59] Corsair's Vengeance 32 GB DDR5
+[00:01:03] kit here went from $542 or $543
+[00:01:08] down to $350. So, that's like a decent
+[00:01:11] reduction. And then beyond that, you've
+[00:01:13] got news satlets like WCCFT
+[00:01:15] talking about how DDR5 memory prices
+[00:01:18] just took a noticeable dive recently.
+[00:01:20] For the first time in months, all we
+[00:01:22] have seen is just essentially a steady
+[00:01:24] rise. But it looks like we're seeing
+[00:01:26] some kind of stabilization on that end.
+[00:01:29] Though again, nothing close to what
+[00:01:32] these prices were originally. But yeah,
+[00:01:34] we're seeing significant drops prices,
+[00:01:36] seeing kind of a decrease of up to $100
+[00:01:39] per kit. Over at Amazon, WCCF Techch
+[00:01:41] noticed that the Vengeance CDR5 SKU's 32
+[00:01:44] gigabytes of RAM 6400 MHz went from $490
+[00:01:50] to $380.
+[00:01:52] 16 GB modules went from $260 to $220.
+[00:01:56] And in part, some of this can be traced
+[00:01:57] to Google's recent announcement via the
+[00:02:00] Google Research social media page. They
+[00:02:03] announces brand new invention that
+[00:02:05] they're calling Turboquant. Their new
+[00:02:07] compression algorithm that reduces LLM
+[00:02:11] key value cache memory by at least six
+[00:02:14] times and delivers up to eight times
+[00:02:16] speed up all with zero accuracy loss,
+[00:02:19] redefining AI efficiency. So what this
+[00:02:22] basically means is that companies will
+[00:02:24] need less RAM to achieve the same
+[00:02:27] output. And that announcement has caused
+[00:02:30] kind of a bit of a chain reaction. Among
+[00:02:32] them being investors having knee-jerk
+[00:02:34] reactions to this news, believing that
+[00:02:36] RAM is no longer as lucrative and so
+[00:02:39] they pulled out of RAM companies like
+[00:02:42] Micron. You can see right here that from
+[00:02:44] the announcement onwards, we saw a
+[00:02:46] pretty significant dip in stock price.
+[00:02:48] Same thing with SKH Heinix whose stock
+[00:02:50] saw a dip shortly after Google's
+[00:02:53] announcement of this algorithm. And then
+[00:02:54] we've got Samsung itself also seeing
+[00:02:56] pretty significant dips over the last
+[00:02:59] few days. The belief is that because of
+[00:03:01] this new algorithm, there will be less
+[00:03:03] demand for RAM on the part of AI
+[00:03:05] companies because they can achieve
+[00:03:06] certain results using a lot less RAM
+[00:03:09] than they used to if this Google
+[00:03:10] algorithm ends up being successfully
+[00:03:13] implemented. And there's also general
+[00:03:14] belief that Google's new algorithm is in
+[00:03:16] part why DRAM prices have been dropping
+[00:03:20] off a little bit because there's this
+[00:03:22] prediction of less demand moving forward
+[00:03:24] because this algorithm will make it so
+[00:03:26] that you need less RAM like six times
+[00:03:28] less RAM to achieve certain kinds of
+[00:03:30] results. And so there's this hope that
+[00:03:32] maybe RAM prices will dip back down to
+[00:03:34] what they were before. Now there is some
+[00:03:36] nuance to all this. While we have seen
+[00:03:39] RAM prices drop, it certainly hasn't
+[00:03:41] been to a level that indicates that
+[00:03:43] we're going to see prices before the AI
+[00:03:46] DRAM hoarding craze. And some news
+[00:03:48] outlets like PC Gamer highlight that
+[00:03:50] what they're noticing isn't necessarily
+[00:03:53] this massive drop off and crash of DRAM
+[00:03:56] prices, but rather a stabilization of
+[00:04:00] these prices still within a pretty high
+[00:04:03] area of price range compared to where
+[00:04:05] they were before with the Google
+[00:04:08] announcement potentially having some
+[00:04:10] influence. But generally what PC Gamer
+[00:04:12] has noticed is that a lot of this stuff
+[00:04:14] is just sales rather than a pattern
+[00:04:17] showing that DRAM overall at
+[00:04:19] industry-wide will start to like crash
+[00:04:22] to price points that are more
+[00:04:24] reasonable. PC Gamers research showed
+[00:04:26] that a lot of these price drops happened
+[00:04:29] prior to Google's announcement and most
+[00:04:31] of what they've seen were essentially
+[00:04:33] discounts rather than a marketwide shift
+[00:04:36] towards significantly lower prices. They
+[00:04:39] insist that that doesn't seem to be on
+[00:04:40] the cards just yet. It mainly feels like
+[00:04:43] the inflation overshot itself a little
+[00:04:45] bit and now it's starting to stabilize
+[00:04:46] at price points that are lower than the
+[00:04:49] peak, but still pretty high up there and
+[00:04:52] will probably stay that way still for
+[00:04:54] many years to come because DRAM demand
+[00:04:56] is still pretty high because AI data
+[00:04:59] centers are still being built on mass.
+[00:05:01] Another news outlet echoing similar
+[00:05:02] sentiments is CNBC. In this article
+[00:05:05] titled, "A Google AI breakthrough is
+[00:05:07] pressuring memory chip stocks from
+[00:05:08] Samsung to Micron. It is detailed by
+[00:05:10] analysts such as Ray Wong here, a memory
+[00:05:12] analyst at semi analysis." While
+[00:05:15] Google's new algorithm does mean that
+[00:05:18] RAM can be used more efficiently. What
+[00:05:20] that ultimately means is that
+[00:05:22] advancements will be made so that it
+[00:05:23] maximizes Google's algorithm and then
+[00:05:26] from there will still be more demand for
+[00:05:28] RAM in order to like further take the
+[00:05:30] technology forward. Here's the direct
+[00:05:32] quote from Wong. When you address a
+[00:05:34] bottleneck, you're going to help AI
+[00:05:36] hardware to be more capable and the
+[00:05:38] training model will be more powerful in
+[00:05:39] the future. When the model becomes more
+[00:05:41] powerful, you require better hardware to
+[00:05:44] support it. The Google algorithm gives
+[00:05:46] AI more headway to make more
+[00:05:47] advancements, but those advancements
+[00:05:49] will happen pretty quickly and will
+[00:05:51] reach the cap that will essentially
+[00:05:54] still yield more demand for RAM. And so
+[00:05:56] another analyst such as Ben Behringer
+[00:05:57] here, head of technology research at
+[00:05:59] Quoter Chevier told CNBC, quote, the
+[00:06:02] Google uh Turboquant innovation has
+[00:06:04] added to the pressure, but this is
+[00:06:06] evolutionary, not revolutionary. It does
+[00:06:09] not alter the industry's long-term
+[00:06:11] demand picture. The big issue with AI
+[00:06:13] right now is that compute isn't at a
+[00:06:15] high enough level for it to keep up with
+[00:06:17] the rate at which AI is developing and
+[00:06:20] the demand that it has for compute
+[00:06:22] power. The new Google algorithm will
+[00:06:24] help mitigate some of that, but not to
+[00:06:26] such a high enough degree that suddenly
+[00:06:28] there's way less demand for RAM. The
+[00:06:30] demand for RAM will still continue to
+[00:06:32] persist for a long while. Another
+[00:06:34] article that shared similar sentiments
+[00:06:36] is this one right here from the register
+[00:06:39] whose headline reads, "Memory maker
+[00:06:40] shares are down. Some RAM prices have
+[00:06:42] eased. Blaming Google is not a good
+[00:06:44] idea." And they spotlighted analysts
+[00:06:46] believe that more efficient AI will
+[00:06:48] actually just create more demand for AI
+[00:06:50] because it'll mean that making AI will
+[00:06:53] be easier as this industry continues to
+[00:06:56] grow. And then beyond that, there's also
+[00:06:58] the fact that supply for RAM will be
+[00:07:01] more limited due to ongoing conflicts
+[00:07:03] right now like the war in the Persian
+[00:07:04] Gulf, which means it'll be hard to meet
+[00:07:06] the demand for RAM because the conflict
+[00:07:08] has damaged the supply chain for helium,
+[00:07:10] a vital component in semiconductor
+[00:07:12] production that can mean chipmakers
+[00:07:14] can't make all the RAM they assumed
+[00:07:15] would inflate the revenue and profits.
+[00:07:17] And so, yeah, it's important to
+[00:07:18] highlight that just because we're seeing
+[00:07:20] RAM prices decrease a little bit for the
+[00:07:22] first time in a while, that doesn't mean
+[00:07:25] that we're headed towards a short-term
+[00:07:28] full-on correction of this market where
+[00:07:30] prices will go back to the way they used
+[00:07:32] to be. And while any kind of price
+[00:07:33] decrease is a good thing, still when you
+[00:07:36] look at the present prices, even after
+[00:07:38] those price decreases, they are still at
+[00:07:40] significantly higher prices than their
+[00:07:42] all-time lows. Like, yes, it's good to
+[00:07:44] see that Corsair Vengeance's RGB DDR5632
+[00:07:49] GB kit went down in price from $410 to
+[00:07:53] $370. Once upon a time, you could buy
+[00:07:55] that RAM kit for, you know, at their
+[00:07:57] lowest $87. So, it's still really bad.
+[00:08:00] I'm just seeing a lot of social media
+[00:08:02] activity that like, ah, it's over. RAM
+[00:08:04] prices will go back to normal. And
+[00:08:06] that's just not the case. We're just
+[00:08:08] seeing some kind of market correction
+[00:08:10] that nowhere near comes close to the
+[00:08:13] original prices we've seen for these
+[00:08:15] kits back when AI wasn't hoarding all
+[00:08:17] the RAM. Now, another area of rumors and
+[00:08:19] speculation that we're seeing is
+[00:08:20] potential reports of RAM prices
+[00:08:23] plummeting in part because of OpenAI's
+[00:08:26] failure to fulfill its commitment to
+[00:08:28] purchase 40% of world supply. referring
+[00:08:30] to this article right here from back in
+[00:08:32] October 1st, 2025 from Tom's Hardware
+[00:08:35] reporting that OpenAI's Stargate project
+[00:08:37] will consume up to 40% of global DRAM
+[00:08:40] output with OpenAI having inked deals
+[00:08:43] with Samsung and SKHX to the tune of up
+[00:08:46] to 900,000 wafers per month. What we're
+[00:08:50] starting to hear from multiple sources
+[00:08:51] is that those deals that OpenAI made
+[00:08:54] with RAM companies like Samsung and
+[00:08:56] Skhinx were not legally binding. There
+[00:08:59] were letters of intent, but nothing that
+[00:09:02] was fully secured as a sure thing. Back
+[00:09:04] when this Tom's hardware article first
+[00:09:06] released, the speculation was that this
+[00:09:08] deal has led to money actually being
+[00:09:10] exchanged and that the DRAM was reserved
+[00:09:14] for OpenAI and that that was like a
+[00:09:17] fully done deal. But what recent reports
+[00:09:19] are saying is that the purchase orders
+[00:09:21] were never actually real. Akash Gupta
+[00:09:24] had the following to say on the matter.
+[00:09:26] In October of 2025, Sam Alman flew to
+[00:09:29] Seoul and signed simultaneous deals with
+[00:09:31] Samsung and SKHEX for 900,000 DRM wafers
+[00:09:35] per month. That's 40% of global supply.
+[00:09:38] Neither company knew the other was
+[00:09:39] signing a similar commitment at the same
+[00:09:41] time. The pricing and terms would have
+[00:09:43] looked very different if they had. And
+[00:09:45] that was no doubt a scheme that OpenAI
+[00:09:47] and Sam Alman perpetuated on purpose.
+[00:09:50] Those deals, quote unquote, were letters
+[00:09:52] of intent, not binding purchase orders.
+[00:09:55] No RAM actually changed hands, but the
+[00:09:58] market treated them as real. The market
+[00:10:01] treated this deal as if it was like
+[00:10:04] ironclad and that money would get
+[00:10:06] exchanged and the 900,000 DRM wafers per
+[00:10:10] month would be going to Open AI, as if
+[00:10:13] that wafer was just no longer available
+[00:10:15] to the rest of the market. And so
+[00:10:18] contract DRM prices jumped by 171%. A 64
+[00:10:22] GB DDR5 kit went from $190 to $700 in
+[00:10:26] three months. DDR4 kits that should have
+[00:10:29] been in over supply doubled. Retailers
+[00:10:31] stopped posting prices entirely. Now,
+[00:10:33] the speculation from this has become
+[00:10:35] that well, it looks like there's
+[00:10:37] actually more RAM available than we
+[00:10:38] initially thought because OpenAI's deal
+[00:10:41] with Samsung and SKHEX was a letter of
+[00:10:44] intent. That 900,000 wafers per month
+[00:10:47] didn't go to OpenAI. It actually still
+[00:10:49] exists on the market. And so the
+[00:10:51] realization of the higher supply of DRAM
+[00:10:53] is what's causing the price of DRAM to
+[00:10:56] drop. But Akash Gupta says that DDR5
+[00:10:59] prices are finally dropping for the
+[00:11:01] first time in months. But it has nothing
+[00:11:03] to do with OpenAI walking away from
+[00:11:04] anything, but rather it's more to do
+[00:11:06] with Google announcing that Turbo Quant
+[00:11:08] technology algorithm on March 24th. And
+[00:11:11] so the final conclusion that Akash
+[00:11:12] presented here is that one company,
+[00:11:14] OpenAI, locked up 40% of global memory
+[00:11:17] with commitments it may never fulfill
+[00:11:20] with a letter of intent that does not
+[00:11:21] actually translate to a purchase order.
+[00:11:23] And then a different company Google
+[00:11:25] published a research paper. The research
+[00:11:27] paper is doing more for RAM prices than
+[00:11:29] the entire supply chain has done in 6
+[00:11:32] months. Now, this report conflicts with
+[00:11:34] what PC Gamer is saying where from their
+[00:11:36] research, they noticed that a lot of the
+[00:11:38] price drops happened before Google's
+[00:11:40] announcement of their new algorithm. And
+[00:11:42] so, that's where the story gets a little
+[00:11:44] murky. There are a lot of different
+[00:11:45] perspectives on why the price of DRAM
+[00:11:49] recently dropped. Some are saying that
+[00:11:51] it's just discounts. Others are saying
+[00:11:52] that Google's algorithm announcement was
+[00:11:55] a direct cause. Others are saying it was
+[00:11:56] just basic market correction where
+[00:11:58] inflation kind of skyrocketed above
+[00:12:01] where it should be and now it's starting
+[00:12:02] to fall and then stabilized but still at
+[00:12:05] price points that are unreasonable
+[00:12:06] compared to where they used to be. And
+[00:12:07] when it comes to these reports that the
+[00:12:09] deals that OpenAI made with SKHEX and
+[00:12:12] Samsung were letters of intent. It's
+[00:12:14] something that a couple of folks are
+[00:12:16] like spouting but we don't have like
+[00:12:18] true real confirmation that this is
+[00:12:21] true. We don't know what the exact
+[00:12:22] sources of this information are. And so
+[00:12:24] I'm choosing to present this information
+[00:12:26] with a caveat of wait until we get like
+[00:12:28] true official confirmation from reliable
+[00:12:30] outlets and sources who confirm the
+[00:12:32] legitimacy of this report that the deals
+[00:12:34] were letters of intent and nothing
+[00:12:35] ironclad. But it feels potentially
+[00:12:37] relevant enough that at the very least I
+[00:12:39] wanted to posit this theory and this you
+[00:12:42] know alleged report that's going around
+[00:12:44] that some people like Akash Gupta are
+[00:12:46] presenting pretty confidently. And
+[00:12:48] furthermore, he kind of outlined the
+[00:12:51] timeline of events amidst these new
+[00:12:53] revelations, saying that October of
+[00:12:55] 2025, Sam Alman flew to Seoul and signed
+[00:12:58] this deal with SKH and Samsung. He
+[00:13:01] insists that these deals were letters of
+[00:13:03] intent, non-binding, no RAM actually
+[00:13:05] changed hands. No money was actually
+[00:13:08] exchanged. But because the speculation
+[00:13:11] became that OpenAI had like fully
+[00:13:13] acquired all that RAM, the panic
+[00:13:15] surrounding that report of this deal
+[00:13:17] that actually turned out to be letters
+[00:13:19] of intent led to all companies feeling
+[00:13:21] like they have to buy up all the RAM
+[00:13:23] before it all runs out and before prices
+[00:13:25] skyrocket. And so that is what
+[00:13:27] ultimately caused the supply shortage as
+[00:13:29] well as the mass inflation of RAM kits
+[00:13:32] for the public. And that in December of
+[00:13:34] 2025, Micron kills Crucial, its
+[00:13:37] 29-year-old consumer memory brand, to
+[00:13:40] reallocate every wafer to AI and
+[00:13:42] enterprise customers. Micron being the
+[00:13:44] third largest manufacturer of RAM below
+[00:13:47] Samsung and SKH Highix. The company
+[00:13:49] Micron explicitly said it was exiting
+[00:13:51] consumer memory to improve supply and
+[00:13:54] support for our larger strategic
+[00:13:56] customers and fastergoing segments.
+[00:13:58] basically saying it's more profitable to
+[00:14:00] sell RAM to AI than to consumers or as
+[00:14:03] you know Kash Gupta put it translation
+[00:14:05] the AI demand signal was so loud that
+[00:14:07] selling RAM to PC builders stopped
+[00:14:10] making financial sense compared to
+[00:14:12] selling to AI companies on mass then on
+[00:14:14] March of 2026 which is now Google
+[00:14:16] publishes Turbo Quant a compression
+[00:14:18] algorithm that reduces memory
+[00:14:20] requirements by six times with zero
+[00:14:22] accuracy loss cloudflare CEO called it
+[00:14:25] Google's deepseek the entire thesis that
+[00:14:27] AI consume infinite memory forever just
+[00:14:30] got a six-month expiration date on it.
+[00:14:32] And on that same month, OpenAI and
+[00:14:34] Oracle cancelled the Abene Stargate
+[00:14:36] expansion, which we'll get to in a bit.
+[00:14:38] The $500 billion data center vision that
+[00:14:41] justified the RAM deals just couldn't
+[00:14:42] survive its own financing terms.
+[00:14:44] Bloomberg attributed the collapse partly
+[00:14:46] to OpenAI's often changing demand
+[00:14:48] forecast. And then here's the real
+[00:14:50] kicker for Micron, the company that
+[00:14:52] exited the consumer business in favor of
+[00:14:54] AI. Micron is now down 33% from its post
+[00:14:57] earnings high. Revenue is up 196%
+[00:15:00] year-over-year. EPS up 682%
+[00:15:03] and the stock is in freef fall because
+[00:15:05] the company restructured its entire
+[00:15:07] business around a demand signal that
+[00:15:08] came from non-binding letters and is now
+[00:15:11] being compressed out of existence by a
+[00:15:13] research paper. Micron bet the consumer
+[00:15:16] division on Sam Ultimate's signature
+[00:15:19] that the letter of intent would go
+[00:15:20] beyond just a letter of intent but the
+[00:15:23] signature was worth exactly what the
+[00:15:24] paper said nothing binding absolutely
+[00:15:27] zero until Sam Alman decides that the
+[00:15:30] letter of intent becomes more that it's
+[00:15:32] a deal that he does want to secure which
+[00:15:34] currently based on the reports out there
+[00:15:37] that again are not fully confirmed quite
+[00:15:38] yet seem to indicate that Sam Alman has
+[00:15:40] no intention to fulfill the letter of
+[00:15:43] intent to buy up all that RAM. And the
+[00:15:45] double whammy is Google announcing this
+[00:15:47] algorithm that makes the demand for RAM
+[00:15:49] significantly less. But again, this
+[00:15:50] conflicts with what some analysts are
+[00:15:52] saying where just because the algorithm
+[00:15:55] optimizes RAM usage doesn't mean that
+[00:15:57] computation has caught up with the power
+[00:15:59] demand of AI. And so even with that
+[00:16:02] algorithm, the demand for RAM is going
+[00:16:04] to be really really high for many years
+[00:16:06] to come is what a lot of analysts are
+[00:16:08] saying. And so a lot of analysts are
+[00:16:10] saying that while Google's algorithm
+[00:16:12] might lead to some kind of market
+[00:16:13] correction, it's not going to lead to
+[00:16:15] the price drops that people are
+[00:16:16] anticipating. But all this does coincide
+[00:16:18] with a recent pattern we're seeing from
+[00:16:20] OpenAI, which is that they're spending
+[00:16:22] less money on expanding data centers and
+[00:16:25] are instead kind of committing more to
+[00:16:27] renting data centers from other
+[00:16:29] companies. So for example, right here we
+[00:16:30] have a March 6, 2026 article titled
+[00:16:33] Oracle and OpenAI and plans to expand
+[00:16:36] flagship data center. They're originally
+[00:16:38] planning to secure an expansion site for
+[00:16:41] their flagship Stargate data center
+[00:16:44] project from developer Cruso, but
+[00:16:46] according to this Bloomberg article,
+[00:16:48] Oracle and OpenAI's plans on that front
+[00:16:50] were scrapped because negotiations
+[00:16:52] dragged over financing and OpenAI's
+[00:16:54] changing needs. And so instead, Nvidia
+[00:16:57] and Meta are stepping in into that
+[00:16:59] expansion side, while OpenAI is just
+[00:17:01] keeping what they already have and
+[00:17:03] choosing to expand in other avenues.
+[00:17:05] Right here we have a CNBC article from
+[00:17:07] March 22nd, 2026 detailing all this.
+[00:17:11] Here's the headline which reads,
+[00:17:12] "OpenAI's data center pivot underscores
+[00:17:14] Wall Street spending concerns ahead of
+[00:17:17] IPO or going public. OpenAI has tempered
+[00:17:20] expectations. OpenAI has come to the
+[00:17:22] realization that the market doesn't
+[00:17:24] necessarily appreciate the reckless
+[00:17:25] approach to growth and spending." It's
+[00:17:28] what CEO of Futurum Group Daniel Newman
+[00:17:30] had to say. And scrolling further down,
+[00:17:32] you'll find a segment that highlights
+[00:17:34] how OpenAI has had to retreat from some
+[00:17:36] hefty spending plans and accept OpenAI's
+[00:17:38] role as a purchaser of massive amounts
+[00:17:40] of cloud capacity rather than as a
+[00:17:43] builder of mammoth data centers. That's
+[00:17:45] an area where they're retreating, which
+[00:17:47] explains their exit from expanding their
+[00:17:49] Stargate project, instead renting out
+[00:17:51] servers from companies like Amazon. A
+[00:17:53] move that Microsoft, one of OpenAI's
+[00:17:55] biggest partners, didn't foresee. So,
+[00:17:56] Microsoft is thinking about suing OpenAI
+[00:17:59] over their recent deal with Amazon and
+[00:18:01] using their cloud services. Microsoft
+[00:18:03] believed that OpenAI would use
+[00:18:05] Microsoft's cloud services exclusively
+[00:18:07] as part of their partnership. But OpenAI
+[00:18:10] claims that API products developed with
+[00:18:12] third parties will be exclusive to
+[00:18:13] Microsoft's Azure while non-API products
+[00:18:16] may be served on any cloud provider.
+[00:18:18] Microsoft disagrees believing that
+[00:18:20] OpenAI's offering access to Frontier via
+[00:18:23] Amazon Web Services Bedrock platform
+[00:18:25] would be in breach of the exclusivity
+[00:18:27] agreement. But the speculation out there
+[00:18:29] is that Sam Alman's retreat from
+[00:18:32] building data centers means potentially
+[00:18:34] less demand for RAM or less RAM being
+[00:18:36] purchased on mass from companies like
+[00:18:38] Micron and the like. And that's in part
+[00:18:40] why RAM prices are dropping a little bit
+[00:18:43] and why the stock prices of RAM
+[00:18:45] companies are dropping significantly.
+[00:18:47] But yeah, there are plenty of reports
+[00:18:48] out there that OpenAI's plans to expand
+[00:18:50] the Stargate data center has proven to
+[00:18:53] be really difficult due to just I mean
+[00:18:56] behind the scenes struggles when it
+[00:18:57] comes to like reaching a good financial
+[00:18:59] deal combined with reliability issues
+[00:19:01] and weather elements that have come into
+[00:19:04] play. But at the same time, reports do
+[00:19:06] state while this one expansion plan for
+[00:19:08] Stargate did get cancelled, that doesn't
+[00:19:11] mean that there aren't other expansion
+[00:19:13] plans going on. Oracle's general
+[00:19:15] partnership with OpenAI remains
+[00:19:16] unchanged, says this Tom's hardware
+[00:19:18] article. In July of last year, Oracle
+[00:19:20] agreed to develop 4.5 gawatts of data
+[00:19:23] center capacity for OpenAI, and that
+[00:19:25] program continues. The companies have
+[00:19:27] also announced projects in other
+[00:19:29] locations, including a site near Detroit
+[00:19:31] owned by Related Digital. So, while Sam
+[00:19:34] Alman is scaling back on expansion
+[00:19:36] plans, that doesn't mean that they are
+[00:19:38] like canceled outright. They're just
+[00:19:40] happening elsewhere. And so that does
+[00:19:42] indicate that demand for RAM will still
+[00:19:44] persist even with Google's algorithm.
+[00:19:46] Even if the deal that OpenAI signed with
+[00:19:50] SKH and Samsung were letters of intent,
+[00:19:54] that still did cause a mass RAM panic
+[00:19:57] that did lead to all the hoarding that
+[00:19:59] did lead to a supply constraint that did
+[00:20:02] lead to price inflations. All that does
+[00:20:04] still remain a reality, but that panic
+[00:20:06] may have come off of a deal that wasn't
+[00:20:09] ironclad, that were not in fact purchase
+[00:20:11] orders, but just letters of intent. But
+[00:20:13] regardless of the more nuance details
+[00:20:15] surrounding how all this played out the
+[00:20:17] way it did, it doesn't change the fact
+[00:20:19] that all this has ultimately still
+[00:20:20] the economy. It's the
+[00:20:23] market of computers and electronics and
+[00:20:25] computing components. We're still
+[00:20:27] looking at reports that highlight how
+[00:20:29] massive investments in AI contributed
+[00:20:31] basically zero to US's economic growth
+[00:20:34] last year. It doesn't change the fact
+[00:20:36] that companies like OpenAI are bleeding
+[00:20:37] a lot of money on this gamble that AI
+[00:20:41] will be the next big thing that it will
+[00:20:43] be adopted on mass that it will become
+[00:20:44] an essential technology that will allow
+[00:20:46] OpenAI to become an essential company
+[00:20:49] and therefore make just a boatload of
+[00:20:51] money from their services. But that
+[00:20:53] gamble involves bleeding a lot of money
+[00:20:55] and burning through a lot of investments
+[00:20:57] currently in the hopes that in the
+[00:20:59] future by like 2030 and whatnot they'll
+[00:21:01] actually be profitable and that the
+[00:21:04] technology will be influential enough
+[00:21:06] that it will be adopted on mass. But
+[00:21:08] right now we're seeing things like
+[00:21:10] Oracle recently having fired 30,000
+[00:21:12] employees. Oracle being one of the
+[00:21:14] companies that's closely working with
+[00:21:16] OpenAI and Nvidia to make this financial
+[00:21:19] circle situation work for their plans to
+[00:21:23] build data centers and invest in AI. The
+[00:21:26] fact that Oracle is in such financial
+[00:21:28] constraints despite their record
+[00:21:30] revenues and whatnot amidst all the AI
+[00:21:33] data center building that they still had
+[00:21:34] to fire 30,000 employees to pay for AI
+[00:21:37] data centers just says a lot about the
+[00:21:39] amount of money that is being bled.
+[00:21:41] that's like 18% of their workforce. And
+[00:21:43] so, yeah, whether this gamble pays off,
+[00:21:46] that remains to be seen. But a lot of
+[00:21:48] analysts seem to be in the belief that
+[00:21:49] OpenAI's business model is one that
+[00:21:51] should not be trusted and one that
+[00:21:53] ultimately in the long term doesn't seem
+[00:21:54] to be sustainable. And all the while,
+[00:21:56] they're causing irreparable damage to
+[00:21:58] the consumer electronics market and not
+[00:22:00] giving a about that aspect of
+[00:22:02] things as long as their goals are served
+[00:22:04] and met. All of this still ultimately
+[00:22:06] highlights an incredibly irresponsible
+[00:22:08] race towards AI dominance. Instead of
+[00:22:10] pursuing the development of this
+[00:22:12] technology at a steady pace and in a
+[00:22:14] responsible pace, they're going all in
+[00:22:16] bumrushing this thing because all these
+[00:22:18] corporations know that the first of this
+[00:22:19] race stands to profit tremendously and
+[00:22:22] stand to be one of the like most
+[00:22:25] powerful entities in the world. But it's
+[00:22:27] all still just a gamble. There's no
+[00:22:28] guarantee that AI will be adopted at the
+[00:22:31] level that these companies are
+[00:22:32] expecting. There's no guarantee that
+[00:22:33] they'll recoup the hundreds of billions
+[00:22:36] that they're pouring into AI as a
+[00:22:39] technology that they recoup it at a
+[00:22:41] level that is sustainable for you know
+[00:22:43] what is financially required to build
+[00:22:45] out this technology and even then we
+[00:22:47] don't know if this technology will be
+[00:22:49] accepted at the level that these
+[00:22:50] companies are praying it will be because
+[00:22:52] they put so many eggs in that basket.
+[00:22:54] Yeah. When it comes to the recent RAM
+[00:22:55] price decreases that are noticeable but
+[00:22:59] nowhere close to where they should be,
+[00:23:01] especially when you look at price points
+[00:23:03] from before. When it comes to the uh RAM
+[00:23:07] uh company stock prices plummeting and
+[00:23:09] then when it comes to recent reports
+[00:23:10] that OpenAI allegedly just did letters
+[00:23:13] of intent for the deal to secure 40% of
+[00:23:16] the world's DRAM wafer supply. This is
+[00:23:19] where we're at with that matter. And
+[00:23:21] hopefully this gives you some idea of
+[00:23:23] like where the conversation's at right
+[00:23:24] now. And as more information comes out,
+[00:23:26] I'll be sure to update you on all the
+[00:23:29] going on of this wild, crazy, very
+[00:23:32] quickly developing situation. In the
+[00:23:35] meantime though, I'd love to hear what
+[00:23:36] your thoughts and opinions are on
+[00:23:37] everything surrounding RAM that we have
+[00:23:39] learned over the last couple of days and
+[00:23:42] weeks in the comments below. And to be
+[00:23:44] further updated on all things gaming
+[00:23:46] news, reviews, and discussions, stay
+[00:23:48] tuned right here on Yong. Yeah. I'll see
+[00:23:52] you guys next time.
+[00:23:55] Yong.

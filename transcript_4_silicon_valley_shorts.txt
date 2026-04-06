@@ -1,0 +1,36 @@
+[00:00:00] Silicon Valley has a new problem.
+[00:00:02] Developers are feeling this insane
+[00:00:04] urgency to keep up with AI and it's
+[00:00:06] honestly reshaping this whole field.
+[00:00:08] There are countless videos of people in
+[00:00:10] tech talking about this exact same
+[00:00:12] feeling. They're leaving parties early.
+[00:00:14] They're home on Saturday nights working
+[00:00:16] on their AI agents because almost every
+[00:00:18] week there is a new model dropping. It
+[00:00:20] feels like whatever you built last week
+[00:00:22] feels outdated. The pressure just keeps
+[00:00:25] stacking and the people consumed by this
+[00:00:27] are the folks in tech so plugged in that
+[00:00:29] they fear missing out. If we go back a
+[00:00:31] few years, the bottleneck was skill, how
+[00:00:33] long it took you to fix a bug, maybe
+[00:00:35] even resources. But the argument now is
+[00:00:38] those days are gone. So the anxiety
+[00:00:40] shifted and now it's this. Are my agents
+[00:00:43] still running? Did something ship while
+[00:00:44] I was asleep? The machine never stopped
+[00:00:47] so neither do you. And everyone is so
+[00:00:49] productive. You have people on Twitter
+[00:00:51] bragging about shipping 10,000 lines of
+[00:00:53] code a day. But if you actually scroll
+[00:00:55] through what they're building and ask
+[00:00:57] where's the finished product or how many
+[00:00:59] users are using this, there is no answer
+[00:01:01] or an excuse of an answer. And I'm
+[00:01:04] saying this because I myself ran into
+[00:01:06] this. And the best thing that I can say
+[00:01:07] is learn the tools. Stay curious, but
+[00:01:09] you don't need to set your life on fire
+[00:01:12] to keep up with the hype. Follow and
+[00:01:14] I'll keep you posted.
