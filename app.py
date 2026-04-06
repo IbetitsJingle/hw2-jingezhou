@@ -9,7 +9,7 @@ Usage:
     python app.py --batch  (runs all transcripts in current directory)
 
 Requires:
-    pip install google-generativeai
+    pip install google-genai
     GEMINI_API_KEY environment variable set
 """
 
@@ -20,9 +20,10 @@ import argparse
 from pathlib import Path
 
 try:
-    import google.generativeai as genai
+    from google import genai
+    from google.genai import types
 except ImportError:
-    print("ERROR: google-generativeai not installed. Run: pip install google-generativeai")
+    print("ERROR: google-genai not installed. Run: pip install google-genai")
     sys.exit(1)
 
 
@@ -84,16 +85,18 @@ def summarize_transcript(transcript: str, model_name: str = "gemini-2.5-flash") 
         print("Get your key at https://aistudio.google.com/apikey")
         sys.exit(1)
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name=model_name,
-        system_instruction=SYSTEM_PROMPT
-    )
+    client = genai.Client(api_key=api_key)
 
     # Construct the user message with the transcript
     user_message = f"Here is the transcript to summarize:\n\n{transcript}"
 
-    response = model.generate_content(user_message)
+    response = client.models.generate_content(
+        model=model_name,
+        contents=user_message,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT
+        )
+    )
     return response.text
 
 
@@ -161,7 +164,7 @@ def main():
     parser.add_argument("transcript", nargs="?", help="Path to transcript file")
     parser.add_argument("--output", "-o", help="Output file path")
     parser.add_argument("--batch", action="store_true", help="Process all transcript_*.txt files")
-    parser.add_argument("--model", default="gemini-2.0-flash", help="Gemini model name")
+    parser.add_argument("--model", default="gemini-2.5-flash", help="Gemini model name")
 
     args = parser.parse_args()
 
