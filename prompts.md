@@ -66,3 +66,9 @@ Key additions from V2 → V3:
 - Added "depending on video length" to Key Findings count guidance
 
 **Final assessment:** V3 handles all 5 evaluation cases adequately. The biggest remaining weakness is the YouTube Shorts case — the summary structure feels heavy for such light input. A production system might want a "brief mode" for very short transcripts. The unscripted video (Test Case 2) also produces slightly less crisp findings due to the messy source material, but the Confidence Assessment correctly flags this as MEDIUM/LOW.
+
+---
+
+## Revision 3 (Extra Batch Revise)
+
+The batch funtion encountered signficant problem since it overwrites the summary files. I have changed it again to make sure it only produces one file without touching the rest of the files.

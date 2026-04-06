@@ -145,10 +145,19 @@ def run_batch():
     results = {}
 
     for t in transcripts:
-        summary = run_single(str(t))
+        print(f"\n{'='*60}")
+        print(f"Processing: {t}")
+        print(f"{'='*60}")
+
+        transcript = load_transcript(str(t))
+        word_count = len(transcript.split())
+        print(f"Transcript length: {word_count} words")
+
+        summary = summarize_transcript(transcript)
+        print(f"\n{summary}")
         results[t.name] = summary
 
-    # Save combined results
+    # Save combined results only — does NOT overwrite individual summary files
     with open("batch_results.md", "w", encoding="utf-8") as f:
         for name, summary in results.items():
             f.write(f"# {name}\n\n{summary}\n\n{'='*60}\n\n")
