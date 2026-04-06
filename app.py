@@ -157,10 +157,38 @@ def run_batch():
         print(f"\n{summary}")
         results[t.name] = summary
 
-    # Save combined results only — does NOT overwrite individual summary files
+    # Generate a cross-video synthesis
+    all_summaries = "\n\n".join([f"### {name}\n{s}" for name, s in results.items()])
+    synthesis_prompt = f"""You have just produced individual summaries for {len(results)} AI-related videos. 
+Here are all the summaries:
+
+{all_summaries}
+
+Now produce a CROSS-VIDEO SYNTHESIS with these sections:
+
+## Common Themes
+What themes or concerns appear across multiple videos?
+
+## Key Takeaways for R&D Team
+The 3-5 most important insights when considering all videos together.
+
+## Contradictions or Tensions
+Any places where videos disagree or present conflicting perspectives.
+
+## Recommended Priority Actions
+Based on all videos combined, what should the team do first?
+"""
+    print(f"\n{'='*60}")
+    print("Generating cross-video synthesis...")
+    print(f"{'='*60}")
+    synthesis = summarize_transcript(synthesis_prompt)
+    print(f"\n{synthesis}")
+
+    # Save combined results with synthesis
     with open("batch_results.md", "w", encoding="utf-8") as f:
         for name, summary in results.items():
             f.write(f"# {name}\n\n{summary}\n\n{'='*60}\n\n")
+        f.write(f"# CROSS-VIDEO SYNTHESIS\n\n{synthesis}\n")
 
     print(f"\n\nAll results saved to batch_results.md")
     return results
