@@ -76,7 +76,7 @@ def load_transcript(filepath: str) -> str:
         return f.read()
 
 
-def summarize_transcript(transcript: str, model_name: str = "gemini-2.0-flash") -> str:
+def summarize_transcript(transcript: str, model_name: str = "gemini-3.1-pro-preview") -> str:
     """Send transcript to Gemini API and return the structured summary."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
